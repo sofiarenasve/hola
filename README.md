@@ -1,4 +1,2 @@
-# hola
-curso microsoft
-estoy recien comenzando a aprender
-
+readme 
+estoy recien comenzando a aprender con un curso de microsoft:)
